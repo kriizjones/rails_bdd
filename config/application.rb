@@ -16,6 +16,7 @@ module RailsTestChallenge
   class Application < Rails::Application
 
   end
+end
 
   class Application < Rails::Application
   # Disable generation of helpers, javascripts, css, and view, helper, routing and controller specs
